@@ -1,16 +1,13 @@
-### Hi there 👋
+![LINKEDIN](https://user-images.githubusercontent.com/123829470/230311208-be8e047d-ebfd-4f3e-a36d-6a999b22d874.png)
 
-<!--
-**pltommasino/pltommasino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+My name is Pasquale Luca Tommasino. I'm from Italy, living in a little town in the middle of Rome and Naples. I'm always looking for new opportunities to improve myself and my knowledge, especially regarding technology and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# :rocket: GitHub! 
+
+In this space you can find all my skills. 
+
+# :dart: About Me!
+
+More info about me you can find on my website.
