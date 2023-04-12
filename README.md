@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-My name is Pasquale Luca Tommasino. I'm from Italy, living in a little town in the middle of Rome and Naples. I'm always looking for new opportunities to improve myself and my knowledge, especially regarding technology and data science.
+My name is Pasquale Luca Tommasino. I'm from Italy. I live in a little town in the middle of Rome and Naples. I'm always looking for new opportunities to improve myself and my knowledge, especially regarding technology and data science.
 
 ## :rocket: GitHub! 
 
