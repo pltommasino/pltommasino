@@ -1,4 +1,4 @@
-![LINKEDIN](![github-pltommasino](https://github.com/pltommasino/pltommasino/assets/123829470/106e8b3b-21c2-46c8-a513-b81dbfaa76db))
+(![github-pltommasino](https://github.com/pltommasino/pltommasino/assets/123829470/106e8b3b-21c2-46c8-a513-b81dbfaa76db))
 
 # Hi there 👋
 
