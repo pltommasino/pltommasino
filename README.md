@@ -13,4 +13,4 @@ BSc in Computer Science for Data Management
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pltommasino&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pltommasino&show_icons=true&theme=transparent)
