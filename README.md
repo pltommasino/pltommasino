@@ -5,12 +5,10 @@
 
 ### Glad to see you here!
 
-BSc in Computer Science for Data Management
+Born in a little town in the middle of Rome and Naples, currently based in Rome. Currently a Data Science student, at the Sapienza University of Rome. BSc in Computer Science for Data Management. Interested in Machine Learning, AI and LLM.
 
-- 🌍 Born in a little town in the middle of Rome and Naples, currently based in Rome
-- 🧠 Currently a Data Science student, at the Sapienza University of Rome
-- ⚡ Interested in Machine Learning, AI and LLM.
+[![My Skills](https://skillicons.dev/icons?i=apple,anaconda,aws,docker,gcp,git,mongodb,mysql,py,r)](https://skillicons.dev)
 
-### Top Languages
+### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pltommasino&show_icons=true&theme=transparent)
+![Pasquale Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=pltommasino&show_icons=true&theme=transparent)
