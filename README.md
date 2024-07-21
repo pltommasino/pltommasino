@@ -4,10 +4,4 @@
 
 My name is Pasquale Luca Tommasino. I'm from Italy. I live in a little town in the middle of Rome and Naples. I'm always looking for new opportunities to improve myself and my knowledge, especially regarding technology and data analysis.
 
-## :rocket: GitHub! 
-
-In this space you can find all my skills. 
-
-## :dart: About Me!
-
-More info about me you can find on my website.
+[![GitHub Streak](https://streak-stats.demolab.com?user=pltommasino&theme=dark&hide_longest_streak=true)](https://git.io/streak-stats)
