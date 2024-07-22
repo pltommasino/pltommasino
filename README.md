@@ -7,7 +7,7 @@
 
 I'm born in a little town in the middle of Rome and Naples, currently based in Rome. Currently a Data Science student, at the Sapienza University of Rome. BSc in Computer Science for Data Management. Interested in Machine Learning, AI and LLM.
 
-[![My Skills](https://skillicons.dev/icons?i=apple,anaconda,aws,docker,gcp,git,mongodb,mysql,py,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,apple,aws,docker,gcp,git,mongodb,mysql,py,pytorch,r,tensorflow)](https://skillicons.dev)
 
 ### Stats
 
